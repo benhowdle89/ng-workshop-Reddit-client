@@ -1,0 +1,23 @@
+{
+  "name": "ng-workshop-reddit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "watchify": "^2.4.0"
+  },
+  "scripts": {
+    "watch-js": "watchify assets/js/app.js -o dist/js/app.js -dv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benhowdle89/ng-workshop-Reddit-client.git"
+  },
+  "author": "Ben Howdle <hello@benhowdle.im> (http://benhowdle.im/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benhowdle89/ng-workshop-Reddit-client/issues"
+  },
+  "homepage": "https://github.com/benhowdle89/ng-workshop-Reddit-client"
+}
